@@ -46,7 +46,7 @@ class SupportAgentServer:
         
         try:
             # Generate greeting
-            greeting = self.conversation_manager.generate_response("send a greeting to user")
+            greeting = self.conversation_manager.generate_response("send a greeting to user and introduce what is your capabilities")
             print(f"\n\n🤖 Assistant: {greeting}")
 
             # Main conversation loop
