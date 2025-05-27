@@ -1,4 +1,4 @@
-# Sierra Outfitters Customer Support Agent
+# Customer Support Agent
 
 ## Features
 
